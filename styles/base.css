@@ -1,0 +1,40 @@
+:root{
+    --color-one : #EEEEEE;
+    --color-text : #000;
+}
+
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+*{
+    
+    font-family : 'Roboto', sans-serif;
+ 
+
+}
+
+input{
+    outline: none;
+    border: none;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.button1{
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #346751;
+    border-radius: 10px ;
+}
+
